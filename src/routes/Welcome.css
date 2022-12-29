@@ -1,0 +1,28 @@
+.logout{
+    width: 100%;
+    display: flex;
+    justify-content:flex-end ;
+}
+.logoutBtn{
+    /* justify-content: end; */
+    margin: 3%;
+    background-color: rgb(252, 119, 119);
+    border: 0;
+    padding:1rem;
+}
+.buttonGoTo{
+    justify-content: center;
+    width: 100%;
+    margin-top: 10%;
+}
+.containerWel{
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    text-align: center;
+}
+.goToBtn{
+    background-color: rgb(172, 253, 147);
+    border: 0;
+    padding:1rem;
+}
